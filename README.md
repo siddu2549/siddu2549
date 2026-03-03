@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bellamkonda Chandra Siddhartha</h1>
 <h3 align="center">🚀 AI & Data Science Enthusiast | Computer Science Undergraduate</h3>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" />
-</p>
+
 
 ---
 
@@ -63,12 +61,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
